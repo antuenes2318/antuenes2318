@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👨‍💻 Gustavo Antunes
 
-<!--
-**antuenes2318/antuenes2318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Engenharia de Software`**
 
-Here are some ideas to get you started:
+Sou Gustavo Antunes, tenho 17 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na Unicesumar. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Onde me encontrar
+
+<br>
+<div>
+  <a href="https://www.linkedin.com/in/eduardoborgesz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<br/>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="48%" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=antuenes2318&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="48%" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=antuenes2318&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
